@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Reverse bonjoiur comment vous allez en france, je suis sur ce tte exercice qui me prend du temps, youpi, l'ecole est fini" | rev
+rev
