@@ -1,2 +1,4 @@
 #!/bin/bash
-echo $PATH | ls -l  | wc -l
+
+echo {a..z}{a..z} | tr -s ' ' '\n' | grep -v "oo"
+
